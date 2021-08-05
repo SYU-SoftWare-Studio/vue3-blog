@@ -1,0 +1,13 @@
+<template>
+  <div>
+    <h2>22222</h2>
+  </div>
+</template>
+
+<script lang="ts">
+import { defineComponent } from 'vue';
+
+export default defineComponent({
+  name: 'Home',
+});
+</script>
